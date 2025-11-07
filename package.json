@@ -17,6 +17,7 @@
     "i18next": "^25.6.0",
     "i18next-scanner-typescript": "^1.2.1",
     "next": "16.0.1",
+    "next-intl": "^4.5.0",
     "react": "19.2.0",
     "react-dom": "19.2.0",
     "react-i18next": "^16.2.4"
@@ -37,3 +38,6 @@
     "vinyl-fs": "^4.0.2"
   }
 }
+
+
+// docker run -ti --rm -p 8000:5000 libretranslate/libretranslate --load-only "en,es,fr"
