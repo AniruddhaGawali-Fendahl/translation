@@ -1,9 +1,16 @@
-"use client";
-
 import LocaleSwitcher from "@/components/LocaleSwitcher";
 import MUITypography from "@/components/Typography";
+import { setRequestLocale } from "next-intl/server";
 
-export default function Home() {
+export default async function Home({
+  params,
+}: {
+  params: Promise<{ locale: string }>;
+}) {
+  const { locale } = await params;
+
+  setRequestLocale(locale);
+
   return (
     <div className="flex min-h-screen flex-col items-center justify-center bg-zinc-50 p-8 font-sans dark:bg-black">
       <LocaleSwitcher />
