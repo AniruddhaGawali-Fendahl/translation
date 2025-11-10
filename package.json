@@ -40,4 +40,3 @@
 }
 
 
-// docker run -ti --rm -p 8000:5000 libretranslate/libretranslate --load-only "en,es,fr"

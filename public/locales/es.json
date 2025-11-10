@@ -1,6 +1,61 @@
 {
-  "title": "h1. Heading",
-  "sub-title": "este es un subtítulo",
-  "label": "Español",
-  "locale": "Español"
+  "article": {
+    "title": "El Ultimate Productivity Hack está diciendo No",
+    "author": "escrito por James Clear",
+    "categories": "Decision Making Focus Life Lessons",
+    "subtitle": "El último hack de productividad está diciendo que no.",
+    "para1": "No hacer algo siempre será más rápido que hacerlo. Esto\ndeclaración me recuerda a la vieja programación informática diciendo, \"Recuerda\nque no hay código más rápido que ningún código\"",
+    "para2": "La misma filosofía se aplica en otras áreas de la vida. Por ejemplo, allí\nno es una reunión que va más rápido que no tener una reunión en absoluto.",
+    "para3": "Esto no es decir que nunca deberías asistir a otra reunión, sino a la\nLa verdad es que decimos que sí a muchas cosas que no queremos hacer.\nHay muchas reuniones que no necesitan ser celebradas. Hay un\nmucho código escrito que podría ser eliminado.",
+    "para4": "¿Con qué frecuencia te piden que hagas algo y sólo respondes, \"Claro\ncosa.\" Tres días después, estás abrumado por lo mucho que hay en tu\nlista para hacer. Nos sentimos frustrados por nuestras obligaciones a pesar de que\nfueron los que les dijeron que sí en primer lugar.",
+    "para5": "Vale la pena preguntar si las cosas son necesarias. Muchos de ellos no son, y\nsimple \"no\" será más productivo que cualquier trabajo más\npersona eficiente puede ser más fuerte.",
+    "para6": "Pero si los beneficios de decir que no son tan obvios, entonces ¿por qué decimos\n¿Sí tan a menudo?",
+    "section1": {
+      "title": "Por qué dijimos Sí",
+      "para1": "Estamos de acuerdo con muchas solicitudes no porque queremos hacerlos, sino porque\nno queremos ser vistos como groseros, arrogantes, o inquietos. A menudo, tú\ntener que considerar decir no a alguien con quien interactuarás de nuevo\nel futuro: su compañero de trabajo, su cónyuge, su familia y amigos.",
+      "para2": "Decir que no a estas personas puede ser particularmente difícil porque nosotros\ncomo ellos y quieren apoyarlos. (Sin mencionar, a menudo necesitamos\nsu ayuda también.) Colaborar con otros es un elemento importante\nvida. El pensamiento de colar la relación supera el\ncompromiso de nuestro tiempo y energía.",
+      "para3": "Por esta razón, puede ser útil ser amable en su respuesta. Do\nsea cual sea el favor que puedas, y sé tierno y directo cuando tengas\npara decir que no.",
+      "para4": "Pero incluso después de haber contado estas consideraciones sociales, muchos\nde nosotros todavía parece hacer un pobre trabajo de manejar el intercambio entre sí\ny no. Nos encontramos demasiado comprometidos con cosas que no\nmejorar o apoyar significativamente a los que nos rodean, y ciertamente no\nmejorar nuestras propias vidas.",
+      "para5": "Tal vez una cuestión es cómo pensamos en el significado de sí y no."
+    },
+    "section2": {
+      "title": "La diferencia entre sí y no",
+      "para1": "Las palabras \"sí\" y \"no\" se usan en comparación con el otro tan a menudo\nque siente que tienen igual peso en la conversación. In\nrealidad, no son sólo opuestos en el significado, sino del todo\ndiferentes magnitudes en compromiso.",
+      "para2": "Cuando dices que no, sólo estás diciendo que no a una opción. Cuando dices\nSí, estás diciendo que no a cada otra opción.",
+      "para3": "Me gusta cómo lo puso el economista Tim Harford, \"Cada vez que decimos que sí a\na request, we are also saying no to anything else we might achieve\ncon el tiempo.\" Una vez que te has comprometido con algo, ya lo has hecho\ndecidió cómo se gastará ese futuro bloque de tiempo.",
+      "para4": "En otras palabras, decir que no te ahorra tiempo en el futuro. Diciendo que sí\nte cuesta tiempo en el futuro. No es una forma de crédito temporal. Retienes\nla capacidad de pasar su tiempo futuro sin importar lo que quieras. Sí es una forma\nde deuda temporal. Tienes que devolver tu compromiso en algún momento.",
+      "para5": "No es una decisión. Sí es una responsabilidad."
+    },
+    "section3": {
+      "title": "El papel de No",
+      "para1": "Decir que no es visto a veces como un lujo que sólo los que están en el poder pueden\npor favor. Y es verdad: rechazar las oportunidades es más fácil cuando usted\npuede caer en la red de seguridad proporcionada por el poder, el dinero y\nautoridad. Pero también es cierto que decir que no es simplemente un\nprivilegio reservado para el éxito entre nosotros. También es una estrategia\neso puede ayudarte a tener éxito.",
+      "para2": "Decir que no es una habilidad importante para desarrollar en cualquier etapa de su carrera\nporque conserva el activo más importante en la vida: tu tiempo. Como\nEl inversionista Pedro Sorrentino lo dijo: \"Si no cuidas tu tiempo,\nLa gente te lo robará\"",
+      "para3": "Tienes que decir que no a lo que no te lleve hacia tus metas.\nTienes que decir que no a las distracciones. Como un lector me dijo, \"Si\nampliar la definición de cómo se aplica no, en realidad es el único\nhackeo de productividad (como en última instancia dices que no a ninguna distracción en\norden para ser productivo).\"",
+      "para4": "Nadie encarna esta idea mejor que Steve Jobs, quien dijo: \"La gente\nCreo que el enfoque significa decir sí a lo que tienes que concentrarte. Pero...\nEso no es lo que significa. Significa decir que no a los cien\notras buenas ideas que hay. Tienes que elegir cuidadosamente.\"",
+      "para5": "Hay un equilibrio importante para atacar aquí. Decir que no significa\nNunca harás nada interesante o innovador o espontáneo. It\nSólo significa que dices que sí de una manera enfocada. Una vez que hayas llamado\nlas distracciones, puede tener sentido decir sí a cualquier oportunidad\nque podría potencialmente moverte en la dirección correcta. Usted puede tener\nprobar muchas cosas para descubrir lo que funciona y lo que disfrutas. Esto\nperíodo de exploración puede ser particularmente importante al comienzo\nde un proyecto, trabajo o carrera."
+    },
+    "section4": {
+      "title": "Actualización de su No",
+      "para1": "Con el tiempo, a medida que sigues mejorando y teniendo éxito, tu estrategia necesita\npara cambiar.",
+      "para2": "El costo de oportunidad de su tiempo aumenta a medida que se vuelve más\nexitoso. Al principio, acabas de eliminar las distracciones obvias\nexplorar el resto. A medida que tus habilidades mejoran y aprendes a separarte\nlo que funciona de lo que no, tienes que aumentar continuamente\numbral para decir que sí.",
+      "para3": "Aún tienes que decir que no a las distracciones, pero también necesitas aprender\ndecir no a oportunidades que antes eran buenos usos del tiempo, así\nusted puede hacer espacio para grandes usos del tiempo. Es un buen problema\npero puede ser una habilidad difícil de dominar.",
+      "para4": "En otras palabras, tienes que mejorar tu \"no\" con el tiempo.",
+      "para5": "No significa que nunca digas que sí. Sólo significa que tú\npor defecto decir no y sólo decir sí cuando realmente tiene sentido. A\ncita al inversor Brent Beshore, \"Decir que no es tan poderoso porque\npreserva la oportunidad de decir que sí.\"",
+      "para6": "La tendencia general parece ser algo así: Si puedes aprender\ndecir no a malas distracciones, entonces eventualmente ganarás el derecho a\ndi que no a buenas oportunidades."
+    },
+    "section5": {
+      "title": "Cómo decir No",
+      "para1": "La mayoría de nosotros probablemente son demasiado rápidos para decir que sí y demasiado lento para decir que no.\nVale la pena preguntarte dónde caes en ese espectro.",
+      "para2": "Si tienes problemas para decir que no, puedes encontrar la siguiente estrategia\npropuesto por Tim Harford, el economista británico que mencioné antes,\nser útil. Escribe: \"Un truco es preguntar, \"Si tuviera que hacer esto\nhoy, ¿estaría de acuerdo con eso?\" No es una mala regla del pulgar, ya que ninguna\ncompromiso futuro, no importa cuán lejos sea, eventualmente\nconvertirse en un problema inminente\"",
+      "para3": "Si una oportunidad es lo suficientemente emocionante para dejar todo lo que estás haciendo\nAhora mismo, entonces es un sí. Si no lo es, entonces tal vez deberías pensar\nDos veces.",
+      "para4": "Esto es similar al conocido método \"Hell Sí o No\" de Derek\nSivers. Si alguien te pide hacer algo y tu primera reacción es\n\"¡Hell Sí!\", entonces hazlo. Si no te excita, entonces di que no.",
+      "para5": "Es imposible recordar hacerse estas preguntas cada vez\nte enfrentas a una decisión, pero sigue siendo un ejercicio útil para volver a examinar\ntiempo a tiempo. Decir que no puede ser difícil, pero a menudo es más fácil que\nla alternativa. Como ha señalado el escritor Mike Dariano, \"Es más fácil\npara evitar compromisos que deshacerse de compromisos. Decir que no te mantiene\nhacia el extremo más fácil de este espectro.\"",
+      "para6": "Lo que es cierto sobre la salud también es cierto sobre la productividad: una onza de\nla prevención vale una libra de cura."
+    },
+    "section6": {
+      "title": "El poder de No",
+      "para1": "Se gasta más esfuerzo haciendo cosas que no importan que se desperdician\nhaciendo las cosas ineficientemente. Y si es así, la eliminación es una\nhabilidad más útil que optimización.",
+      "para2": "Me recuerda la famosa cita de Peter Drucker, \"No hay nada así\ninútil como hacer eficientemente lo que no debe hacerse en absoluto.\""
+    }
+  }
 }

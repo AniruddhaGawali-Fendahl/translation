@@ -1,6 +1,61 @@
 {
-  "title": "h1. Rubrique",
-  "sub-title": "c'est un sous-titre",
-  "label": "Français",
-  "locale": "Français"
+  "article": {
+    "title": "L'ultime productivité Hack dit non",
+    "author": "écrit par James Clear",
+    "categories": "Prise de décision Orientation Vie Leçons",
+    "subtitle": "Le hack de productivité ultime est de dire non.",
+    "para1": "Ne pas faire quelque chose sera toujours plus rapide que le faire. Cette\nme rappelle l'ancienne programmation informatique qui disait :\nqu'il n'y a pas de code plus rapidement qu'aucun code.\"",
+    "para2": "La même philosophie s'applique aux autres domaines de la vie. Par exemple,\nn'est pas une réunion qui va plus vite que de ne pas avoir de réunion du tout.",
+    "para3": "Ce n'est pas pour dire que vous ne devriez jamais assister à une autre réunion, mais le\nLa vérité est que nous disons oui à beaucoup de choses que nous ne voulons pas réellement faire.\nIl y a beaucoup de réunions qui n'ont pas besoin d'être tenues. Il y a une\nbeaucoup de code écrit qui pourrait être supprimé.",
+    "para4": "Combien de fois les gens vous demandent-ils de faire quelque chose et vous répondez :\nun truc.\" Trois jours plus tard, tu es débordé par le montant de ta dette.\nListe à faire. Nous devenons frustrés par nos obligations même si nous\nétaient ceux qui leur ont dit oui en premier lieu.",
+    "para5": "Il vaut la peine de demander si les choses sont nécessaires. Beaucoup d'entre eux ne sont pas, et un\n\"non\" sera plus productif que n'importe quel travail le plus\nune personne efficace peut se rassembler.",
+    "para6": "Mais si les avantages de dire non sont si évidents, pourquoi disons-nous\nOui si souvent ?",
+    "section1": {
+      "title": "Pourquoi nous disons Oui",
+      "para1": "Nous acceptons beaucoup de demandes non pas parce que nous voulons les faire, mais parce que\nNous ne voulons pas être vus comme impolis, arrogants, ou inutiles. Souvent, vous\ndoivent envisager de dire non à quelqu'un avec qui vous interagirez à nouveau dans\nl'avenir — votre collègue, votre conjoint, votre famille et vos amis.",
+      "para2": "Dire non à ces gens peut être particulièrement difficile parce que nous\ncomme eux et veulent les soutenir. (Sans parler, nous avons souvent besoin\nleur aide aussi.) Collaborer avec les autres est un élément important de\nLa vie. La pensée de forcer la relation l'emporte sur la\nengagement de notre temps et de notre énergie.",
+      "para3": "Pour cette raison, il peut être utile d'être gracieuse dans votre réponse. Faites\ntout ce que vous pouvez, et être chaleureux et direct quand vous avez\npour dire non.",
+      "para4": "Mais même après que nous ayons tenu compte de ces considérations sociales, beaucoup\nde nous semblent encore faire un mauvais travail de gestion du compromis entre oui\nEt non. Nous sommes trop engagés dans des choses qui ne sont pas\naméliorer ou soutenir ceux qui nous entourent, et certainement pas\naméliorer nos propres vies.",
+      "para5": "Peut-être qu'une question est la façon dont nous pensons au sens de oui et non."
+    },
+    "section2": {
+      "title": "La différence entre Oui et Non",
+      "para1": "Les mots \"oui\" et \"non\" sont utilisés l'un par rapport à l'autre si souvent\nqu'ils ont l'impression de porter le même poids dans la conversation. En\nréalité, ils ne sont pas seulement opposés dans le sens, mais de\ndifférentes grandeurs d'engagement.",
+      "para2": "Quand vous dites non, vous dites non à une seule option. Quand tu dis\nOui, vous dites non à toutes les autres options.",
+      "para3": "J'aime la façon dont l'économiste Tim Harford l'a dit :\nune demande, nous disons également non à toute autre chose que nous pourrions accomplir\navec le temps.\" Une fois que vous vous êtes engagé à quelque chose, vous avez déjà\na décidé comment ce futur bloc de temps sera dépensé.",
+      "para4": "En d'autres termes, dire non vous fait gagner du temps à l'avenir. Dire oui\nvous coûte du temps à l'avenir. Non est une forme de crédit de temps. Vous conservez\nla capacité de passer votre temps futur comme vous voulez. Oui est un formulaire\nDette de temps. Vous devez rembourser votre engagement à un moment donné.",
+      "para5": "Non, c'est une décision. Oui, c'est une responsabilité."
+    },
+    "section3": {
+      "title": "Le rôle du non",
+      "para1": "Dire non est parfois considéré comme un luxe que seuls ceux au pouvoir peuvent\nles moyens. Et c'est vrai: refuser les opportunités est plus facile quand vous\npeut retomber sur le filet de sécurité fourni par l'énergie, l'argent, et\nl'autorité. Mais il est également vrai que dire non n'est pas simplement un\nle privilège réservé aux succès parmi nous. C'est aussi une stratégie\nqui peut vous aider à réussir.",
+      "para2": "Dire non est une compétence importante à développer à n'importe quel stade de votre carrière\nparce qu'il conserve le plus important atout de la vie: votre temps. Comme\nPedro Sorrentino l'a dit, \"Si vous ne gardez pas votre temps,\nLes gens te le voleront.\"",
+      "para3": "Vous devez dire non à tout ce qui ne vous mène pas vers vos objectifs.\nTu dois dire non aux distractions. Comme l'a dit un lecteur :\nélargir la définition de la façon dont vous appliquez non, c'est en fait la seule\nproductivité hack (comme vous dites finalement non à toute distraction dans\npour être productif)\"",
+      "para4": "Personne n'a mieux incarné cette idée que Steve Jobs, qui a dit :\npenser se concentrer signifie dire oui à la chose sur laquelle vous devez vous concentrer. Mais\nCe n'est pas ce que ça veut dire. C'est dire non aux cent\nd'autres bonnes idées. Vous devez choisir soigneusement.\"",
+      "para5": "Il y a un important équilibre à trouver ici. Dire non ne veut pas dire\nvous ne ferez jamais rien d'intéressant, innovant ou spontané. C'est\nÇa veut juste dire que tu dis oui de manière ciblée. Une fois que vous avez frappé\nles distractions, il peut être logique de dire oui à toute opportunité\nqui pourrait vous déplacer dans la bonne direction. Vous avez peut-être\nd'essayer beaucoup de choses pour découvrir ce qui fonctionne et ce que vous aimez. Cette\nla période d'exploration peut être particulièrement importante au début\nd'un projet, d'un emploi ou d'une carrière."
+    },
+    "section4": {
+      "title": "Mise à niveau de votre numéro",
+      "para1": "Avec le temps, alors que vous continuez à vous améliorer et à réussir, votre stratégie a besoin\npour changer.",
+      "para2": "Le coût d'opportunité de votre temps augmente à mesure que vous devenez plus\navec succès. Au début, vous éliminez les distractions évidentes et\nexplorer le reste. Comme vos compétences s'améliorent et que vous apprenez à séparer\nce qui fonctionne de ce qui ne fonctionne pas, vous devez continuellement augmenter votre\nseuil pour dire oui.",
+      "para3": "Vous devez toujours dire non aux distractions, mais vous devez aussi apprendre\nde dire non aux opportunités qui étaient auparavant de bonnes utilisations du temps, donc\nvous pouvez faire de l'espace pour de grandes utilisations du temps. C'est un bon problème.\nMais ça peut être difficile à maîtriser.",
+      "para4": "En d'autres termes, vous devez mettre à niveau votre « non » au fil du temps.",
+      "para5": "La mise à niveau de votre non ne veut pas dire que vous ne direz jamais oui. Ça veut juste dire toi\npar défaut de dire non et seulement dire oui quand cela a vraiment du sens. Aux\ncitant l'investisseur Brent Beshore, \"N'essayons pas est si puissant parce qu'il\nconserve l'occasion de dire oui.\"",
+      "para6": "La tendance générale semble être la suivante : Si vous pouvez apprendre à\ndire non aux mauvaises distractions, puis vous gagnerez le droit à\ndire non aux bonnes opportunités."
+    },
+    "section5": {
+      "title": "Comment dire non",
+      "para1": "La plupart d'entre nous sont probablement trop rapides pour dire oui et trop lents pour dire non.\nIl vaut la peine de se demander où vous tombez sur ce spectre.",
+      "para2": "Si vous avez du mal à dire non, vous pouvez trouver la stratégie suivante\nproposé par Tim Harford, l'économiste britannique que j'ai mentionné précédemment,\nêtre utile. Il écrit, \"Un tour est de demander, \"Si je devais faire ceci\naujourd'hui, serais-je d'accord avec cela?\" Ce n'est pas une mauvaise règle, puisque n'importe quel\nl'engagement futur, peu importe à quelle distance il pourrait être, finira par\ndevenir un problème imminent.\"",
+      "para3": "Si une opportunité est assez excitante pour laisser tomber ce que vous faites\nEn ce moment, c'est un oui. Si ce n'est pas le cas, vous devriez peut-être penser\ndeux fois.",
+      "para4": "Ceci est similaire à la méthode bien connue \"Hell Yeah or No\" de Derek\nSivers. Si quelqu'un vous demande de faire quelque chose et que votre première réaction est\n\"Enfer oui!\", alors faites-le. Si ça ne t'excite pas, alors dis non.",
+      "para5": "Il est impossible de se rappeler de se poser ces questions à chaque fois\nvous faites face à une décision, mais c'est encore un exercice utile à revoir de\ntemps pour temps. Dire non peut être difficile, mais il est souvent plus facile que\nl'alternative. Comme l'a souligné l'écrivain Mike Dariano,\nd'éviter les engagements plutôt que d'en sortir. Ne pas dire non vous garde\nvers la fin plus facile de ce spectre.\"",
+      "para6": "Ce qui est vrai en matière de santé est également vrai en matière de productivité : une once de\nla prévention vaut une livre de remèdes."
+    },
+    "section6": {
+      "title": "Le pouvoir du Non",
+      "para1": "Plus d'efforts sont gaspillés à faire des choses qui n'ont pas d'importance que d'être gaspillées\nfaire les choses de manière inefficace. Et si c'est le cas, l'élimination est\ncompétences plus utiles que l'optimisation.",
+      "para2": "On me rappelle la citation célèbre de Peter Drucker,\ninutile de faire efficacement ce qui ne devrait pas du tout être fait.\""
+    }
+  }
 }
