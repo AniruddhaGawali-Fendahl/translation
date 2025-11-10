@@ -26,7 +26,7 @@ function log(message) {
 
 // config ----------------------------------------------------------------------
 const config = {
-  input: ["app/**/*.{ts,tsx}"],
+  input: ["app/**/*.{ts,tsx,js,jsx}"],
   output: "./public/locales",
   locales: LOCALES,
   customComponents: [
@@ -206,25 +206,6 @@ async function translateBatch(locale, entries) {
 
   log(`✓ Translation successful for ${locale} (took ${apiDuration}s)`);
   return entries.map(([key], index) => [key, translated[index]]);
-}
-
-function deepMerge(target, source) {
-  if (!source || typeof source !== "object") return target;
-  const output = { ...target };
-  Object.keys(source).forEach((key) => {
-    const sourceValue = source[key];
-    const targetValue = target?.[key];
-    if (
-      sourceValue &&
-      typeof sourceValue === "object" &&
-      !Array.isArray(sourceValue)
-    ) {
-      output[key] = deepMerge(targetValue || {}, sourceValue);
-    } else {
-      output[key] = sourceValue;
-    }
-  });
-  return output;
 }
 
 async function persistLocale(locale, entries) {
