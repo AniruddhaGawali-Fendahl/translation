@@ -1,31 +1,31 @@
-import React from 'react';
+import React from "react";
+import type { TypographyProps } from "@mui/material/Typography";
+import Typography from "@mui/material/Typography";
+import { useTranslations } from "next-intl";
+import { autoKeyFromText } from "@/lib/autokey";
 
-import type { TypographyProps } from '@mui/material/Typography';
-import Typography from '@mui/material/Typography';
-import { useTranslations } from 'next-intl';
-
-export interface MUITypographyProps extends TypographyProps {
-  type?: 'text' | 'number' | 'currency';
+export interface MUITypographyProps extends Omit<TypographyProps, "translate"> {
+  type?: "text" | "number" | "currency";
   i18nKey?: string;
+  translate?: boolean;
 }
 
 const formatNumber = (
   number: number,
-
-  type: 'number' | 'currency',
+  type: "number" | "currency",
   maximumFractionDigits = 4,
-  country = 'en-IN',
-  currency = 'INR',
+  country = "en-IN",
+  currency = "INR"
 ): string => {
-  const hasDecimal = `${number}`.includes('.');
+  const hasDecimal = `${number}`.includes(".");
   const fractionOptions = hasDecimal
     ? { maximumFractionDigits }
     : { maximumFractionDigits: 0 };
 
   const options: Intl.NumberFormatOptions =
-    type === 'currency'
+    type === "currency"
       ? {
-          style: 'currency',
+          style: "currency",
           currency,
           ...fractionOptions,
         }
@@ -37,32 +37,36 @@ const formatNumber = (
 };
 
 const MUITypography: React.FC<MUITypographyProps> = ({
-  type = 'text',
+  type = "text",
   i18nKey,
   children,
+  translate = true,
   ...rest
 }) => {
   const t = useTranslations();
   const finalStyle: React.CSSProperties = {
-    cursor: rest?.onClick ? 'pointer' : 'default',
+    cursor: rest?.onClick ? "pointer" : "default",
     ...(rest?.style || {}),
   };
 
+  const rawText =
+    type === "text"
+      ? String(children ?? "")
+      : formatNumber(children as number, type);
+
+  if (!translate) {
+    return (
+      <Typography {...rest} style={finalStyle}>
+        {rawText}
+      </Typography>
+    );
+  }
+
+  const key = i18nKey ?? autoKeyFromText(rawText);
+
   return (
-    <Typography
-      {...rest}
-      style={finalStyle}
-    >
-      {i18nKey
-        ? t(i18nKey, {
-            defaultValue:
-              type === 'text'
-                ? String(children)
-                : formatNumber(children as number, type),
-          })
-        : type === 'text'
-        ? children
-        : formatNumber(children as number, type)}
+    <Typography {...rest} style={finalStyle}>
+      {t(key, { defaultValue: rawText })}
     </Typography>
   );
 };
