@@ -41,6 +41,7 @@ export default async function LocaleLayout({
   }
 
   setRequestLocale(locale);
+  console.log("App Version:", process.env.APP_VERSION);
 
   return (
     <html lang={locale}>

@@ -4,9 +4,9 @@ import { parse } from "@babel/parser";
 import traverseModule from "@babel/traverse";
 import { glob } from "glob";
 import crypto from "crypto";
-import { autoKeyFromText } from "./lib/autoKey.js";
+import { autoKeyFromText } from "../lib/autoKey.js";
 
-const { LOCALES } = await import("./i18n/constants.ts");
+const { LOCALES } = await import("../i18n/constants.ts");
 const traverse = traverseModule.default || traverseModule;
 
 // timestamped logging ---------------------------------------------------------

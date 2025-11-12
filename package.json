@@ -4,10 +4,13 @@
   "private": true,
   "scripts": {
     "dev": "next dev",
-    "build": "next build",
+    "build": "node scripts/build.mjs",
     "start": "next start",
     "lint": "eslint",
-    "generate-i18n": "npx i18next-scanner --config ./i18-scanner-config.js"
+    "generate-locales": "node custom-scanner.js",
+    "update-patch": "node scripts/version-upgrade.mjs --patch",
+    "update-minor": "node scripts/version-upgrade.mjs --minor",
+    "update-major": "node scripts/version-upgrade.mjs --major"
   },
   "dependencies": {
     "@emotion/react": "^11.14.0",
@@ -38,5 +41,3 @@
     "vinyl-fs": "^4.0.2"
   }
 }
-
-
